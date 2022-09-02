@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @namanmish
 - 👀 I’m interested in Web Development and Blockchain Development
-- 📫 You can reach me out at naman_mishra@hotmail.com
+- 📫 You can reach me out at reachoutnaman@gmail.com
 
 <!---
 namanmish/namanmish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
