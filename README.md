@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @namanmish
-- 👀 I’m interested in Web Development and Blockchain Development
+- 👋 Hi, I’m Naman Mishra
+- 👀 I’m interested in Web and Blockchain Development
 - 📫 You can reach me out at reachoutnaman@gmail.com
 
 <!---
